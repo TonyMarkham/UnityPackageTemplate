@@ -1,0 +1,8 @@
+{
+  "name": "com.tonymarkham.unitypackagetemplate",
+  "displayName": "Unity Package Template",
+  "version": "0.0.1",
+  "unity": "2020.1",
+  "description": "A template for Unity Packages",
+  "dependencies": { }
+}
